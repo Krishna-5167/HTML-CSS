@@ -1,0 +1,171 @@
+*{
+    font-family: 'Courier New';
+}
+
+h1,h3{
+    color: purple;
+}
+
+#login{
+    background-color: white;
+}
+
+
+
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
+
+p a {
+    color: purple;
+    background-color: yellow;
+}
+
+nav ul li a{
+    color: hotpink;
+}
+ p + h3{
+    text-decoration: underline;
+} 
+
+.upvote + button{
+    color: magenta;
+}
+
+
+div > input{
+    background-color: darksalmon; 
+}
+
+
+
+input[type = "text"]{
+    color: red;
+        
+}
+
+input[type = "password"]{
+    color: green;
+}
+
+input[type]{
+    background-color: ghostwhite;
+}
+
+
+button:hover{
+    background-color: black;
+    color: white;
+
+}
+
+h3:hover{
+    text-decoration:  underline;
+}
+
+
+button:active{
+    background-color: hotpink;
+}
+
+h1::first-letter{
+    color: magenta;
+}
+
+p::first-line{
+    color: red;
+}
+
+p::selection{
+    background-color: lime;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
