@@ -1,2 +1,2 @@
 # HTML
-The Collection of codes for HTML Repository
+The Collection of codes for HTML & CSS Repository
